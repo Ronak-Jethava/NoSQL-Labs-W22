@@ -1,0 +1,19 @@
+{
+    "Books": {
+        "Keys": [
+            {
+                "publisher": {"S": "O'Reilly Media"},
+                "title": {"S": "You Don't Know JS"}
+            },
+            {
+                "publisher": {"S": "O'Reilly Media"},
+                "title": {"S": "Speaking JavaScript"}
+            },
+            {
+                "publisher": {"S": "No Starch Press"},
+                "title": {"S": "Understanding ECMAScript 6"}
+            }
+        ],
+        "ProjectionExpression":"title, isbn, website"
+    }
+}
