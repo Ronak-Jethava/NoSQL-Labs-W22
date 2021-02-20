@@ -15,7 +15,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
 [Note: Amazon is probably extending this to connect with other NoSQL databases for instance Cassandra]
 
 1. Run few operations in a host programming Language. 
-    * Java [Here is how you access dynamo db tables in Java](./docs/AccessingDynamoDB_from_Java.pdf)
+    * Java [Here is how you access dynamo db tables in Java](./docs/java-access.md)
         * DynamoDBLowerLevelDemo.java
     * Python. Requires Installing Boto3 (AWS SDK for Python). Try executing the example program from  
 https://github.com/sanket143/DynamoDB-Lab/wiki/DynamoDB-Reference-Codes, or
