@@ -1,6 +1,6 @@
 # Lab06: Working with DynamoDB
 
-In this lab, we get acquaintance with Dynamo DB and do some hands on working with and programming it.
+In this lab, we get acquaintance with Dynamo DB and do some hands on working with.
 
 ## Do following:
 
