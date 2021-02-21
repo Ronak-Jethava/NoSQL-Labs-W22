@@ -5,8 +5,8 @@ In this lab, we get acquaintance with Dynamo DB and do some hands on working wit
 ## Do following:
 
 1. Download and setup Dynamo DB and AWS CLI client on your machine as per instructions in given here:  
-Windows: [setup-dynamodb-windows.pdf](./docs/setup-windows.md)  
-Linux: [setup-dynamodb-linux.pdf](./docs/setup-linux.md)
+Windows: [setup-dynamodb-windows](./docs/setup-windows.md)  
+Linux: [setup-dynamodb-linux](./docs/setup-linux.md)
 1. Perform some data definition and manipulation operations on dynamo db database using AWS CLI. 
 [Scripts](./scripts/book-repository.md)
 
