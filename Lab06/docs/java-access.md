@@ -1,6 +1,6 @@
 ## Accessing DynamoDB from Java programs
 1. Create a simple maven project (i.e. skip archetype selection).
-2. Put following dependencies in pom.xml
+2. Put following dependencies in `pom.xml`
 ```
 	<dependencies>
 		<dependency>
