@@ -17,6 +17,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
 1. Run few operations in a host programming Language. 
     * Java [Here is how you access dynamo db tables in Java](./docs/java-access.md)
         * DynamoDBLowerLevelDemo.java
+        * CatalogMain.java (requires CatalogItem.java)
     * Python. Requires Installing Boto3 (AWS SDK for Python). Try executing the example program from  
 https://github.com/sanket143/DynamoDB-Lab/wiki/DynamoDB-Reference-Codes, or
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-dynamodb-GettingStarted.html 
