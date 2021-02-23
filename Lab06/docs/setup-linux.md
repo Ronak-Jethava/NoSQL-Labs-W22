@@ -6,7 +6,7 @@ If you don’t have Java installed on your machine you will need to run followin
 ```
 $ sudo apt update
 $ sudo apt install default-jdk
-$ update-alternatives `--config java`  
+$ update-alternatives --config java  
 $ sudo gedit /etc/environment
 ```
 Last command will open the text file. Now, copy the following code and paste into it then save the file.
@@ -37,7 +37,7 @@ $ sudo ./aws/install
 ```
 ### (4) Configure Dynamo DB. 
 ```
-C:/dynamodb>aws configure
+$aws configure
 ```
 It prompts for some inputs. Give some inputs as following
 ```
@@ -50,7 +50,7 @@ May preserve this inputs for some later use; we may never need these values, tho
   
 ## Test if set up is done correctly:  
   
-Create a work directory, say `c:\dynamodb-work`. Move to this directory before doing following tasks  
+Create a work directory, say `dynamodb-work`. Move to this directory before doing following tasks  
   
 **Create Table** (named as `ProductCatalog`) as following:
 ```
