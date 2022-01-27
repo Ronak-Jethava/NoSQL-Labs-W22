@@ -1,4 +1,4 @@
-package pmj.mapr.imagecounter;
+package pmj.mapr.imagcounter;
 
 import java.io.IOException;
 import java.util.HashSet;
