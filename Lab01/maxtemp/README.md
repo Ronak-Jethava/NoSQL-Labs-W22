@@ -13,7 +13,7 @@ https://github.com/tomwhite/hadoop-book
 * MaxTemperatureMapper.java //Mapper class
 * MaxTemperatureReducer.java //Reducer class
 
-### input data file <tempdata.txt> ###
+### input data files ###
 combines two year's data from  
 1901: https://github.com/tomwhite/hadoop-book/blob/master/input/ncdc/all/1901.gz  
 1902: https://github.com/tomwhite/hadoop-book/blob/master/input/ncdc/all/1902.gz  
