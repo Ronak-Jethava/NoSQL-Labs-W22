@@ -16,6 +16,8 @@ public class MaxTemperature {
 		job.setJobName("Max temperature");
 
 		FileInputFormat.addInputPath(job, new Path("E:/programs-nosql-22/data/mr/weather"));
+		//note here that input is directory, and not a file
+		//map fnction will be called for each record of each file in this directory
 		FileOutputFormat.setOutputPath(job, new Path("E:/programs-nosql-22/output/mr/temperature"));
  
 		job.setMapperClass(MaxTemperatureMapper.class);
