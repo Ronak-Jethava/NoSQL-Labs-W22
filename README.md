@@ -1,2 +1,2 @@
-# NoSQL-Labs-W21
- NoSQL Labs Winter 2021
+# NoSQL-Labs-W22
+ NoSQL Labs Winter 2022
